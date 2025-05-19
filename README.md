@@ -1,0 +1,1 @@
+This web application was created by a small group for my senior project. I acted as the scrum master for this project, ensuring that our requirements and deadlines were met. I also facilitated communication with our professor and TA when we had questions about the development of this full-stack web app.
