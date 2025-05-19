@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-drivegood-dev-c4698-authRole",
+      "UnauthRoleArn": "arn:aws:iam::274815321855:role/amplify-drivegood-dev-c4698-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::274815321855:role/amplify-drivegood-dev-c4698-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-drivegood-dev-c4698-deployment",
+      "UnauthRoleName": "amplify-drivegood-dev-c4698-unauthRole",
+      "StackName": "amplify-drivegood-dev-c4698",
+      "StackId": "arn:aws:cloudformation:us-east-1:274815321855:stack/amplify-drivegood-dev-c4698/3642bd70-ed43-11ef-b81e-1226c1f0f5d1",
+      "AmplifyAppId": "d9whwmu47e5qt"
+    },
+    "categories": {
+      "auth": {
+        "drivegood52783df8": {}
+      }
+    }
+  }
+}
